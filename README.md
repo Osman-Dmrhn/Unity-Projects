@@ -30,11 +30,11 @@ Klasik bir bilgi yarışması oyunu. Sorular rastgele gelir ve her doğru cevap 
 **Teknolojiler:** Unity, C#, UI Canvas
 
 📸 Proje Görselleri:
-![Quiz Game Screenshot](./QuizGame/images/main.png)
-![Quiz Game Screenshot](./QuizGame/images/question.png)
-![Quiz Game Screenshot](./QuizGame/images/joker1.png)
-![Quiz Game Screenshot](./QuizGame/images/joker2.png)
-![Quiz Game Screenshot](./QuizGame/images/final.png)
+![Quiz Game Screenshot](./QuizGame/images/main.jpg)
+![Quiz Game Screenshot](./QuizGame/images/question.jpg)
+![Quiz Game Screenshot](./QuizGame/images/joker1.jpg)
+![Quiz Game Screenshot](./QuizGame/images/joker2.jpg)
+![Quiz Game Screenshot](./QuizGame/images/final.jpg)
 ---
 
 ## ✨ Notlar
