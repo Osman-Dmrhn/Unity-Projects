@@ -39,8 +39,6 @@ Klasik bir bilgi yarışması oyunu. Sorular rastgele gelir ve her doğru cevap 
 </p>
 
 ## ✨ Notlar
-
-- Her proje klasöründe kendi `README.md` dosyası ve görselleri yer almaktadır.
 - Oyunları Unity Editor ile çalıştırarak deneyimleyebilirsiniz.
 
 ---
