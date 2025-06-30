@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c724863dcc3fcd14bb9c853f1426589e, type: 3}
+  m_Name: C11 7
+  m_EditorClassIdentifier: 
+  questionText: "Hangi Antik Yunan filozofu, \u201CEvrende hi\xE7bir \u015Fey kal\u0131c\u0131
+    de\u011Fildir\u201D diyerek de\u011Fi\u015Fim \xFCzerine d\xFC\u015F\xFCncelerini
+    belirtmi\u015Ftir?"
+  trueAnswers: 1
+  answers:
+  - a) Sokrat
+  - b) Herakleitos
+  - c) Aristoteles
+  - d) Platon

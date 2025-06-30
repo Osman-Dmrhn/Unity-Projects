@@ -1,0 +1,164 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: AnaMenuString Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: AnaMenuString
+  m_TableCollectionNameGuidString: 6258d19feefb8034690c3d8b8f63f5c8
+  m_Entries:
+  - m_Id: 23620091904
+    m_Key: key_oyna
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28506456064
+    m_Key: key_ayarlar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31513772032
+    m_Key: key_cikis
+    m_Metadata:
+      m_Items: []
+  - m_Id: 176657661952
+    m_Key: key_Hassasiyet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 180310900736
+    m_Key: key_Ses
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2220495863808
+    m_Key: key_tub
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2226300780544
+    m_Key: info
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4426385195008
+    m_Key: key_durak
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4511550537728
+    m_Key: key_tekrar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5128163557376
+    m_Key: key_devam
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6565648007168
+    m_Key: key_inf2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11054232764416
+    m_Key: key_pause_but
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11056321527808
+    m_Key: key_map
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11145844752384
+    m_Key: key_pusula
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11302392954880
+    m_Key: key_hareket
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11407355412480
+    m_Key: key_fener
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11409389649920
+    m_Key: key_yon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11727628271616
+    m_Key: key_tamam
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12305263624192
+    m_Key: Key_sure
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19756528566272
+    m_Key: key_kaya
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19758252425216
+    m_Key: key_hedef
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19759510716416
+    m_Key: key_agac
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19826422448128
+    m_Key: key_baslan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19924472692736
+    m_Key: "key_agacl\u0131k"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19972648468480
+    m_Key: key_golet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20026692075520
+    m_Key: key_aciklik
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23978477223936
+    m_Key: inf_harita
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24026812383232
+    m_Key: inf_pusula
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24072664514560
+    m_Key: inf_pusula_harita
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24143325954048
+    m_Key: inf_hedef
+    m_Metadata:
+      m_Items: []
+  - m_Id: 359030444654592
+    m_Key: key_macera
+    m_Metadata:
+      m_Items: []
+  - m_Id: 360527760850944
+    m_Key: key_hazine
+    m_Metadata:
+      m_Items: []
+  - m_Id: 360549629952000
+    m_Key: "key B\xF6l\xFCm"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 366978084503552
+    m_Key: key_dil
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 8878447961784451121
+  references:
+    version: 2
+    RefIds:
+    - rid: 8878447961784451121
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1742300023645

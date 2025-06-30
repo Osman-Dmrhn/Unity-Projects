@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c724863dcc3fcd14bb9c853f1426589e, type: 3}
+  m_Name: C12 5
+  m_EditorClassIdentifier: 
+  questionText: "Bir insan\u0131n t\xFCm v\xFCcudundaki kan\u0131n toplam a\u011F\u0131rl\u0131\u011F\u0131
+    ortalama olarak ne kadard\u0131r?"
+  trueAnswers: 3
+  answers:
+  - a) 2-3 kg
+  - b)8-10 kg
+  - c) 6-7 kg
+  - d) 4-5 kg

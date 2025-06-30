@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c724863dcc3fcd14bb9c853f1426589e, type: 3}
+  m_Name: d1 4
+  m_EditorClassIdentifier: 
+  questionText: "Plank sabiti nedir ve hangi bilim alan\u0131nda kullan\u0131l\u0131r?"
+  trueAnswers: 2
+  answers:
+  - "a) Elektronlar\u0131n h\u0131z\u0131, Fizik"
+  - "b) I\u015F\u0131k sabiti, Kimya"
+  - "c) Enerji ile frekans ili\u015Fkisi, Kuantum Fizi\u011Fi"
+  - "d) Zaman \xF6l\xE7\xFCm\xFC, Astronomi"

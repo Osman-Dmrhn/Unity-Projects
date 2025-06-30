@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b3a00c15b9f75bf4586e18fee28265a5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - terrainHeightMap: {fileID: 2800000, guid: 6c70465018064534286a1a5020898639, type: 3}
+  - contourMaterial: {fileID: 2100000, guid: cede14a2ed74f754daa2ac652bc426c2, type: 2}
+  - debug: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

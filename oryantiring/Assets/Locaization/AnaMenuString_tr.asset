@@ -1,0 +1,173 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: AnaMenuString_tr
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: tr
+  m_SharedData: {fileID: 11400000, guid: 6258d19feefb8034690c3d8b8f63f5c8, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 23620091904
+    m_Localized: Oyna
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28506456064
+    m_Localized: Ayarlar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31513772032
+    m_Localized: "\xC7\u0131k\u0131\u015F"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 176657661952
+    m_Localized: Hassasiyet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 180310900736
+    m_Localized: Ses
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2226300780544
+    m_Localized: "Oryantiring Nedir?\nOryantiring, harita ve pusula kullanarak belirlenen
+      kontrol noktalar\u0131na en k\u0131sa s\xFCrede ula\u015Fmay\u0131 hedefleyen
+      bir do\u011Fa sporudur.\n\nOryantiring\u2019in Tarihi\nBu spor, ilk olarak
+      \u0130sve\xE7\u2019te 19. y\xFCzy\u0131l\u0131n sonlar\u0131nda askeri e\u011Fitim
+      ama\xE7l\u0131 kullan\u0131lmaya ba\u015Flanm\u0131\u015Ft\u0131r. Zamanla
+      pop\xFClerle\u015Ferek d\xFCnya \xE7ap\u0131nda yayg\u0131n bir spor dal\u0131
+      haline gelmi\u015Ftir.\n\nOryantiring Sporunun Temel Kurallar\u0131\n\nKat\u0131l\u0131mc\u0131lar
+      belirli bir ba\u015Flang\u0131\xE7 noktas\u0131ndan hareket eder ve haritada
+      i\u015Faretlenmi\u015F kontrol noktalar\u0131na ula\u015Fmaya \xE7al\u0131\u015F\u0131r.\nEn
+      k\u0131sa s\xFCrede t\xFCm kontrol noktalar\u0131n\u0131 ge\xE7erek biti\u015F
+      noktas\u0131na ula\u015Fan sporcu yar\u0131\u015F\u0131 kazan\u0131r."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2220495863808
+    m_Localized: "Bu proje T\xDCB\u0130TAK 2209-A program\u0131 kapsam\u0131nda desteklenmektedir"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4426385195008
+    m_Localized: "Duraklama Men\xFCs\xFC"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4511550537728
+    m_Localized: "Tekrar Ba\u015Fla"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5128163557376
+    m_Localized: Devam Et
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6565648007168
+    m_Localized: "Eksik Harita Par\xE7alar\u0131n\u0131 Bulman Gerekiyor"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11054232764416
+    m_Localized: Duraklatma
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11056321527808
+    m_Localized: Harita
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11145844752384
+    m_Localized: Pusula
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11302392954880
+    m_Localized: Hareket Butonu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11407355412480
+    m_Localized: "Haritadaki Fenerleri Bulup \xDCst\xFCne T\u0131kla"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11409389649920
+    m_Localized: "Karaktere buradan y\xF6n verebilirsin"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11727628271616
+    m_Localized: Tamam
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12305263624192
+    m_Localized: "S\xFCre"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19756528566272
+    m_Localized: Kayalar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19758252425216
+    m_Localized: Hedef
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19759510716416
+    m_Localized: "A\u011Fa\xE7"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19826422448128
+    m_Localized: "Ba\u015Flang\u0131\xE7"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19924472692736
+    m_Localized: "A\u011Fa\xE7l\u0131k"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19972648468480
+    m_Localized: "G\xF6let"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20026692075520
+    m_Localized: "A\xE7\u0131kl\u0131k"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23978477223936
+    m_Localized: "Harita \xFCzerindeki sembolleri tan\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24072664514560
+    m_Localized: "Pusula ve harita yard\u0131m\u0131yla b\xFCt\xFCn hedef noktalar\u0131na
+      ula\u015F"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24026812383232
+    m_Localized: "Pusulay\u0131 kullanarak kuzeyi bul ve haritay\u0131 do\u011Fru
+      hizala."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24143325954048
+    m_Localized: "Hedef noktalar\u0131na ula\u015Ft\u0131\u011F\u0131nda fenerlerin
+      \xFCzerine t\u0131klayarak etkile\u015Fime ge\xE7 ve o hedefe ula\u015Ft\u0131\u011F\u0131n\u0131
+      kaydet"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 359030444654592
+    m_Localized: "Maceraya Ba\u015Fla"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 360527760850944
+    m_Localized: Hazineyi Buldun
+    m_Metadata:
+      m_Items: []
+  - m_Id: 360549629952000
+    m_Localized: "B\xF6l\xFCm Bitti"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 366978084503552
+    m_Localized: "T\xFCrk\xE7e"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

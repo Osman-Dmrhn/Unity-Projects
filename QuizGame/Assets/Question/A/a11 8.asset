@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c724863dcc3fcd14bb9c853f1426589e, type: 3}
+  m_Name: a11 8
+  m_EditorClassIdentifier: 
+  questionText: "\u0130stanbul\u2019da yer alan ve Bizans \u0130mparatorlu\u011Fu
+    zaman\u0131nda yap\u0131lan b\xFCy\xFCk yap\u0131 hangisidir?"
+  trueAnswers: 2
+  answers:
+  - "a) K\u0131z Kulesi"
+  - "b) Topkap\u0131 Saray\u0131"
+  - c) Ayasofya
+  - d) Sultanahmet Camii

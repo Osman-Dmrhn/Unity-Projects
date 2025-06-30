@@ -1,0 +1,204 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: AnaMenuString_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 6258d19feefb8034690c3d8b8f63f5c8, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 23620091904
+    m_Localized: Play
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28506456064
+    m_Localized: Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31513772032
+    m_Localized: Exit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 176657661952
+    m_Localized: Sensitivity
+    m_Metadata:
+      m_Items: []
+  - m_Id: 180310900736
+    m_Localized: Voice
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2226300780544
+    m_Localized: 'What is Orienteering?
+
+      Orienteering is a nature sport that
+      aims to reach the control points determined using a map and compass in the
+      shortest time.
+
+
+
+      History of Orienteering
+
+
+
+      This sport was first
+      used for military training in Sweden in the late 19th century. Over time, it
+      became popular and became a widespread sport worldwide.
+
+
+
+      Basic Rules
+      of Orienteering
+
+
+
+      Participants start from a certain starting point and
+      try to reach the control points marked on the map.
+
+      The athlete who passes
+      all the control points in the shortest time and reaches the finish point wins
+      the race.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2220495863808
+    m_Localized: "This project is supported under the T\xDCB\u0130TAK 2209-A program."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4426385195008
+    m_Localized: Pause
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4511550537728
+    m_Localized: Retry
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5128163557376
+    m_Localized: Continue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6565648007168
+    m_Localized: 'You Need to Find the Missing Map Pieces
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11054232764416
+    m_Localized: Pause
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11056321527808
+    m_Localized: Map
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11145844752384
+    m_Localized: compass
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11302392954880
+    m_Localized: "Action Button\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11407355412480
+    m_Localized: "\rFind the Lighthouses on the Map and Click on Them"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11409389649920
+    m_Localized: 'You can direct the character from here
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11727628271616
+    m_Localized: Ok
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12305263624192
+    m_Localized: Time
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19756528566272
+    m_Localized: Rocks
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19758252425216
+    m_Localized: Target
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19759510716416
+    m_Localized: Tree
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19826422448128
+    m_Localized: Start Point
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19924472692736
+    m_Localized: Wooded
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19972648468480
+    m_Localized: Pond
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20026692075520
+    m_Localized: Openness
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23978477223936
+    m_Localized: 'Recognize symbols on the map
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24026812383232
+    m_Localized: 'Use the compass to find north and align the map correctly.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24072664514560
+    m_Localized: 'Reach all target points with the help of compass and map
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24143325954048
+    m_Localized: 'When you reach the target points, click on the lanterns to interact
+      and record that you have reached that target.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 359030444654592
+    m_Localized: Go Adventure
+    m_Metadata:
+      m_Items: []
+  - m_Id: 360527760850944
+    m_Localized: 'You Found the Treasure
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 360549629952000
+    m_Localized: 'Episode is Over
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 366978084503552
+    m_Localized: English
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
